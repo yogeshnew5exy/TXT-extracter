@@ -17,10 +17,10 @@ from pyrogram.types import Message
 from pyromod import listen
 
 import online.helpers.vid as helper
-from online.Config.py import *
+from Config.py import 
 from online.helpers.button import keyboard
-from online.helpers.sudoers import *
-from online.helpers.text import *
+from online.helpers.sudoers import 
+from online.helpers.text import 
 
 # ==========Logging==========#
 logging.basicConfig(
